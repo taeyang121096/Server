@@ -7,6 +7,7 @@
    - 테이블 분리하기, join사용 하는법에 대해 공부 했다.
    - database server는 databse client를 통하여 접근한다.
    - mysql workbrench database client 사용법 익혔다.     
+   - left outer join & right outer join 사용버 익혔다.
 
 
 2. OAuth 2.0 :
