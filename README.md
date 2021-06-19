@@ -7,7 +7,8 @@
    - 테이블 분리하기, join사용 하는법에 대해 공부 했다.
    - database server는 databse client를 통하여 접근한다.
    - mysql workbrench database client 사용법 익혔다.     
-   - left outer join & right outer join 사용버 익혔다.
+   - left outer join & right outer join 사용법 익혔다.
+   - inner join & full outer join & exculsive join 사용법 익혔다.
 
 
 2. OAuth 2.0 :
@@ -17,4 +18,9 @@
 
 
 3. programmers (sql kit) :          
-   - sql kit select문 풀이
+   - sql kit select 문제 풀이     
+   - sql kit sum,max,min 문제 풀이     
+
+
+4. Data_modeling :      
+   - 업무 파악 : 기획서 작성 하기 (kakao oven 사용)      
