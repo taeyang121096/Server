@@ -18,7 +18,8 @@
 
 
 3. programmers (sql kit) :          
-   - sql kit select문 풀이
+   - sql kit select 문제 풀이     
+   - sql kit sum,max,min 문제 풀이     
 
 
 4. Data_modeling :      
