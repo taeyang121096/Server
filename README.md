@@ -23,4 +23,5 @@
 
 
 4. Data_modeling :      
-   - 업무 파악 : 기획서 작성 하기 (kakao oven 사용)      
+   - 업무 파악 : 기획서 작성 하기 (kakao oven 사용)      \
+   - 개념적 데이터 모델링 : entity, attribute, relation (draw.io 사용) ERD 
