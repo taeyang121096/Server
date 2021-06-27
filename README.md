@@ -20,9 +20,13 @@
 3. programmers (sql kit) :          
    - sql kit select 문제 풀이     
    - sql kit sum,max,min 문제 풀이     
-   - sql kit group by 문제 풀이
+   - sql kit group by 문제 풀이      
+   - sql kit Is null 문제 풀이.      
 
 
 4. Data_modeling :      
    - 업무 파악 : 기획서 작성 하기 (kakao oven 사용)      \
-   - 개념적 데이터 모델링 : entity, attribute, relation (draw.io 사용) ERD 
+   - 개념적 데이터 모델링 : entity, attribute, relation (draw.io 사용) ERD      
+   - 논리적 데이터 모델링 : 개념적 모델링을 논리적으로 변환 했다. 또한 정규화를 통해서 표를 분리 했다.      
+   - 물리저 데이터 모델리 : 성능적 향상을 위해 역정규화를 통해서 표를 쪼개거나 합쳤다.      
+
