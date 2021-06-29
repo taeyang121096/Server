@@ -21,7 +21,8 @@
    - sql kit select 문제 풀이     
    - sql kit sum,max,min 문제 풀이     
    - sql kit group by 문제 풀이      
-   - sql kit Is null 문제 풀이.      
+   - sql kit Is null 문제 풀이.
+   - sql kit Join 문제풀이.             
 
 
 4. Data_modeling :      
