@@ -1,0 +1,45 @@
+sql 문법
+
+
+데이터베이스 : 데이터를 구조적으로 모아둔 집합소
+
+관계형 데이터베이스 : 열과 행을 가진 테이블 형태로 데이터를 관리한다.
+
+테이블, 릴레이션
+로우, 레코드,튜플
+컬럼, 속성
+
+RDBMS : 데이터베이스에 접근 할 수 있게 해주는 시스템 주요 기능 추가, 수정, 삭제, 조회, 무결성 유지, 트랜젝션 관리, 백업 및 복원, 보안
+
+SQL : 구조화된 질의 언어(데이터를 관리 하기 위한 프로그래밍 언어)
+
+DDL, DML(CRUD), DCL
+
+create database name
+
+create table name (column)
+
+drop table name
+drop database name
+
+insert into table_name (colum~) values(~)
+
+select colum from table where condition
+
+update table set col = data where condition
+
+delete from table where (condition)
+
+sql 연산자 : 산술 연산자, 비교 연산자, 논리 연산자, 비트 논리 연산자, 연결 연산자, IN연산자, Like 연산자
+
+not 1 , and 2(논리곱) , or 3(논리합)
+
+비트 연산 : 이진 연산 -> and & , or | , xor ^
+
+연결 연산 : 공백(구분) 문자열 형태일 때 문자를 붙여 준다 또는 concat(문자열...)
+
+in 연산 : 컬럼 in (값..), 컬럼 not in (값...)
+
+like 연산 : 문자 패턴을 사용,와일드 카드  % : 모든 문자, _ : 하나의 문자
+
+문자열 함수 : 
