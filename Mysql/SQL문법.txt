@@ -43,3 +43,38 @@ in 연산 : 컬럼 in (값..), 컬럼 not in (값...)
 like 연산 : 문자 패턴을 사용,와일드 카드  % : 모든 문자, _ : 하나의 문자
 
 문자열 함수 : 
+
+substr
+substring
+mid
+
+아스키 코드 변환 함수 :
+char -> ascii
+ascii
+
+ascii -> char
+char
+
+count 함수 : count(col)
+
+길이 함수 : length
+
+조건 문 : if, case when[condition] then[true] else [false] end
+
+서브 쿼리 : select(스칼라 서브 퀄리하나의 레코드에 하나의 컬럼 반환), from(인라인 뷰 -> 가상 테이블), where(일반 쿼리)
+
+단일 행 서브쿼리
+
+다중 행 서브쿼리
+
+order by : asc  desc
+
+출력 개수 제한 : limit[offset],[row_count]
+limit[row_count]
+
+group by : 특정 칼럼을 기준으로 데이터를 그룹핑 함
+
+index : primary key(하나만 정의), unique key(여러개 정의 가능), normal key(데이터 중복 허용), full text, 중복 키
+자주 조회되는 컬럼, 조회 시 많은 시간이 걸리는 컬럼, 데이터가 긴 경우 인덱스를 사용 하지 않는다.
+
+join : 
